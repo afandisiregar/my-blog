@@ -1,4 +1,4 @@
-# Emory app
+# My Blog
 My blog is a application simple blog. An application built using laravel and full laravel. An application made for coding tests at loops.id perusahaan. This application has a comment feature for each user.
 
 # Features
